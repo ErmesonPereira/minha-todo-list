@@ -20,4 +20,4 @@ O projeto foi construído de forma evolutiva, passando pelas seguintes etapas:
 
 ## 🔗 Como visualizar
 Você pode acessar o projeto rodando o arquivo `index.html` localmente ou através do link do GitHub Pages:
-> [INSIRA SEU LINK DO GITHUB PAGES AQUI]
+> https://ermesonpereira.github.io/minha-todo-list/
